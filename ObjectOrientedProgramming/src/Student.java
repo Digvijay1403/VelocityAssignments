@@ -10,4 +10,5 @@ public class Student {
         student.name = "Digvijay";
         student.getStudentName();
     }
+
 }
