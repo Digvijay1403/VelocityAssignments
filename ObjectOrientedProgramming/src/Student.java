@@ -7,7 +7,7 @@ public class Student {
     public static void main(String[] args) {
 
         Student student = new Student();
-        student.name = "Digvijay";
+        student.name = "Digvijay Patil";
         student.getStudentName();
     }
 
